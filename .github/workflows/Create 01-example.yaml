@@ -1,8 +1,4 @@
-# make sure to work with a github repo before class in pycharm
-mkdir .github/workflows
-cd .github/workflows
-create a file: 01-example.yaml
----
+
 name: Run Tests
 
 on:
